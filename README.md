@@ -1,4 +1,8 @@
-## Hi there 👋
+## Blooming in progress... 🌷
+
+🎀 Hi! I'm Diana Ismail
+💭 Daydreamer, graphic designer & artist
+🌱 Currently learning web design with the goal of building a personal website ^_^
 
 <!--
 **13loomin9/13loomin9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
